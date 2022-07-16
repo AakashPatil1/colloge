@@ -52,7 +52,7 @@
                         <h3>Intermediate</h3>
                         <p>Ideally, paragraphs should be well connected to each other. Order paragraphs so that each one follows logically 
                             from the previous one. To make this logic more obvious, you can use transition words (or “connectors”), so that
-                             the paragraphs flow better and the reader is always kept on track.
+                             the paragraphs flow better and the is always kept on track.
                         </p>
                     </div>
                     <div class="course-col">
